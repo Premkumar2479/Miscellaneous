@@ -3,7 +3,7 @@ const app = express();
 const port = 8080;
 
 app.get("/register",(req,res)=>{
-    res.send("standard GET responce");
+    res.send("hello aayush");
 });
 
 
